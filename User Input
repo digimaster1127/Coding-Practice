@@ -8,10 +8,10 @@ int main()
     string name;
     int age;
 
-cout << "Enter your name  " << endl;
+cout << "Enter the name  " << endl;
 cin >> name;
 
-cout << "Enter your age " << endl;
+cout << "Enter the age " << endl;
 cin >> age;
 
 cout << name <<" is " << age << " years old. " << endl;
