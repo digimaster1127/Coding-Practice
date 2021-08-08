@@ -7,15 +7,16 @@ int main()
 {
     string name;
     int age;
+    float height;
 
-cout << "Enter the name  " << endl;
+cout << "Enter the name : " << endl;
 cin >> name;
 // Robin is here
 // Hello Robin
-cout << "Enter the age " << endl;
+cout << "Enter the age :" << endl;
 cin >> age;
-
-cout << name <<" is " << age << " years old. " << endl;
+cout << "Enter the height : " << endl;
+cout << name <<" is " << age << " years old and " << height << " cm height. " << endl;
 
 return 0;
 }
