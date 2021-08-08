@@ -4,9 +4,10 @@ using namespace std;
 
 int main()
 {
-  int x = 50;
-  int y = 100; 
-  int z = x + y;
+  int x,y,z;
+  x = 50;
+  y = 100;
+  z = x + y;
 
 cout << " z = " << z << endl;
 
