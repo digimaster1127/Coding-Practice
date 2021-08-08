@@ -16,6 +16,7 @@ cin >> name;
 cout << "Enter the age :" << endl;
 cin >> age;
 cout << "Enter the height : " << endl;
+cin >> height;
 cout << name <<" is " << age << " years old and " << height << " cm height. " << endl;
 
 return 0;
